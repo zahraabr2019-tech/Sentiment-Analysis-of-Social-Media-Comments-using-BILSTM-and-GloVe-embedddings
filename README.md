@@ -52,3 +52,5 @@ https://www.kaggle.com/datasets/rtatman/glove-global-vectors-for-word-representa
 Accuracy, precision, recall, F1-measure, confusion matrix, macro avg, weighted avg
 
 **Final validation accuracy: 78%**
+
+Run the `.ipynb` notebook in Jupyter/Colab; a detailed academic report covering the full project pipeline (model choice, visualization, preprocessing, results) is also included.
