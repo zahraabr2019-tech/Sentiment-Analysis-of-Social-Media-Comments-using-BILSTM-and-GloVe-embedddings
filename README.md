@@ -52,13 +52,3 @@ https://www.kaggle.com/datasets/rtatman/glove-global-vectors-for-word-representa
 Accuracy, precision, recall, F1-measure, confusion matrix, macro avg, weighted avg
 
 **Final validation accuracy: 78%**
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/zahraabr2019-tech/Sentiment-Analysis-of-Social-Media-Comments-using-BILSTM-and-GloVe-embedddings
-   cd Sentiment-Analysis-of-Social-Media-Comments-using-BILSTM-and-GloVe-embedddings
-2. Install dependencies
-  ```bash
-   pip install tensorflow pandas numpy matplotlib seaborn scikit-learn nltk
